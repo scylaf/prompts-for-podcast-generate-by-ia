@@ -15,7 +15,7 @@ Este é o 2º episódio do  podcast de 5 minutos falamos sobre as inovações qu
 
 - Roteiro gerado via chatgpt
 - Audio gerado pela elevenLabs
-- Google Para gerar capas
+- Google Para gerar imagem de capa
 
 ## 🚀 Resultados
 O 2º episódio na mesma linha do anterior, de fácil compreensão,  simples e rápido. Agora falando sobre algumas inovações que estão ajudando marcas a se tornarem mais conscientes e conectadas com seus clientes.
